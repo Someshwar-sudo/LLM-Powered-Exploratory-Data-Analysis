@@ -23,3 +23,6 @@ To build an intelligent, local AI-based EDA tool that automates data exploration
 ### Outcome
 
 Users can quickly understand dataset structure, detect patterns, identify issues, and gain insights without writing complex code, significantly reducing the time required for exploratory data analysis.
+##Refrence image
+<img width="1456" height="862" alt="image" src="https://github.com/user-attachments/assets/04349356-dcf4-49e5-8ebe-eb384fc587b4" />
+
